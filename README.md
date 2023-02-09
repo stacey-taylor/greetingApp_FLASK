@@ -1,2 +1,2 @@
 # greetingApp_FLASK
-For DGIN5201
+Following tutorial: https://www.youtube.com/watch?v=6plVs_ytIH8&ab_channel=PythonSimplified
